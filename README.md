@@ -14,6 +14,9 @@ Identificação de tecnologias emergentes a partir de dados de patentes usando M
 - [WIPO](https://patentscope.wipo.int/search/en/search.jsf)
 - [LENS](https://www.lens.org/)
 
+## Análise das Referências
+Tabela da análise no [excel](https://docs.google.com/spreadsheets/d/1qfv87Qj_ramlhuBZ4EBIj8Dlr-TwvrjxG3Lpxr9LHRA/edit?usp=sharing)
+
 ## Algoritmos
 - Random Forest/Árvore de Decisão
 - SVM (Support Vector Machine)
