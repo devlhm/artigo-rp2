@@ -4,6 +4,7 @@
 - Choi, Y., Park, S., & Lee, S. (2021). Identifying emerging technologies to envision a future innovation ecosystem: A machine learning approach to patent data. Scientometrics, 126(7), 5431-5476.
 - Mohammadi, N., Maghsoudi, M., & Soghi, M. (2024). Innovation ecosystems in retail: Uncovering technological trends and collaboration networks through patent mining. IEEE Access.
 - Trappey, A. J., Chen, P. P., Trappey, C. V., & Ma, L. (2019). A machine learning approach for solar power technology review and patent evolution analysis. _Applied Sciences_, _9_(7), 1478.
+- Zhou, Y., Dong, F., Liu, Y., Li, Z., Du, J., & Zhang, L. (2020). Forecasting emerging technologies using data augmentation and deep learning. Scientometrics, 123(1), 1-29.
 
 ### Luis
 - Kreuchauff, F., & Korzinov, V. (2017). A patent search strategy based on machine learning for the emerging field of service robotics. Scientometrics, 111(2), 743-772.
