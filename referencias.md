@@ -1,5 +1,8 @@
 # Referências
 
+### Extras
+- Gui, L., Wu, J., Liu, P., & Ma, T. (2025). Recognition of promising technologies considering inventor and assignee's historic performance: A machine learning approach. Technological Forecasting and Social Change, 214, 124053.
+
 ### Dimitri
 - Choi, Y., Park, S., & Lee, S. (2021). Identifying emerging technologies to envision a future innovation ecosystem: A machine learning approach to patent data. Scientometrics, 126(7), 5431-5476.
 - Mohammadi, N., Maghsoudi, M., & Soghi, M. (2024). Innovation ecosystems in retail: Uncovering technological trends and collaboration networks through patent mining. IEEE Access.
@@ -11,7 +14,6 @@
 - Zhou, Y., Dong, F., Liu, Y., & Ran, L. (2021). A deep learning framework to early identify emerging technologies in large-scale outlier patents: An empirical study of CNC machine tool. Scientometrics, 126(2), 969-994.
 
 ### Pedro
-- Beatto, V. M., & Back, R. B. (2022). Levantamento de patentes tecnológicas que contribuem para a acessibilidade na construção civil. Revista de Arquitetura IMED, 11(1), 151-170.
 - Erdogan, Z., Altuntas, S., & Dereli, T. (2022). Predicting patent quality based on machine learning approach. IEEE Transactions on Engineering Management, 71, 3144-3157.
 - Klongthong, W., Muangsin, V., Gowanit, C., & Muangsin, N. (2021). A patent analysis to identify emergent topics and convergence fields: A case study of chitosan. Sustainability, 13(16), 9077.
 
