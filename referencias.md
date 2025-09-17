@@ -3,6 +3,11 @@
 ### Extras
 - Gui, L., Wu, J., Liu, P., & Ma, T. (2025). Recognition of promising technologies considering inventor and assignee's historic performance: A machine learning approach. Technological Forecasting and Social Change, 214, 124053.
 
+### Construção Civil
+- Berman, B. (2012). 3-D printing: The new industrial revolution. Business horizons, 55(2), 155-162.
+- Colares, A. C. V., Gouvêa, D. A. P., & Costa, J. S. (2021). Impactos da pandemia do covid-19 no setor de construção civil. Percurso Acadêmico, 11(21), 188-208.
+- Munaro, M. R., & Tavares, S. F. (2022). A economia circular na construção civil: principais barreiras e oportunidades para a transição do setor. Revista Tecnologia e Sociedade, 18(53), 54-71.
+
 ### Dimitri
 - Choi, Y., Park, S., & Lee, S. (2021). Identifying emerging technologies to envision a future innovation ecosystem: A machine learning approach to patent data. Scientometrics, 126(7), 5431-5476.
 - Mohammadi, N., Maghsoudi, M., & Soghi, M. (2024). Innovation ecosystems in retail: Uncovering technological trends and collaboration networks through patent mining. IEEE Access.
