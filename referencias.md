@@ -2,6 +2,7 @@
 
 ### Extras
 - Gui, L., Wu, J., Liu, P., & Ma, T. (2025). Recognition of promising technologies considering inventor and assignee's historic performance: A machine learning approach. Technological Forecasting and Social Change, 214, 124053.
+- Kyebambe, M. N., Cheng, G., Huang, Y., He, C., & Zhang, Z. (2017). Forecasting emerging technologies: A supervised learning approach through patent analysis. Technological Forecasting and Social Change, 125, 236-244.
 
 ### Construção Civil
 - Berman, B. (2012). 3-D printing: The new industrial revolution. Business horizons, 55(2), 155-162.
