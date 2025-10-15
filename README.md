@@ -13,6 +13,7 @@ Identificação de tecnologias emergentes a partir de dados de patentes usando M
 ## Fonte de Dados
 - [WIPO](https://patentscope.wipo.int/search/en/search.jsf)
 - [LENS](https://www.lens.org/)
+- [Query](https://www.lens.org/lens/search/patent/list?q=class_ipcr.symbol%3A(E*)&f=false&e=false&l=en&dateFilterField=publishedDate&j.must=BR&publishedDate.from=2000-01-01&publishedDate.to=2025-10-15)
 
 ## Análise das Referências
 Tabela da análise no [excel](https://docs.google.com/spreadsheets/d/1qfv87Qj_ramlhuBZ4EBIj8Dlr-TwvrjxG3Lpxr9LHRA/edit?usp=sharing)
