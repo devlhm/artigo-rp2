@@ -1,6 +1,0 @@
-analise_patentes/modelos/* filter=lfs diff=lfs merge=lfs -text
-analise_patentes/datasets/* filter=lfs diff=lfs merge=lfs -text
-analise_patentes/resultados_analise/* filter=lfs diff=lfs merge=lfs -text
-analise_patentes/resultados_por_ano/* filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.parquet filter=lfs diff=lfs merge=lfs -text
